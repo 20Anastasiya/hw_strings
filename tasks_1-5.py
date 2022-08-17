@@ -29,13 +29,13 @@
 # print('индекс первого вхождения:', (string_4.lower()).find(symbol_4.lower()))
 # print('индекс второго вхождения:', (string_4.lower()).rfind(symbol_4.lower()))
 
-print(' TASK 5:')
-first_letter = input('Введите 1-ую строку:')
-second_letter = input('Введите 2-ую строку:')
-if first_letter.lower() == second_letter.lower()[::-1]:
-    print('две строки являются палиндромами')
-else:
-    print('две строки не являются палиндромами')
+# print(' TASK 5:')
+# first_letter = input('Введите 1-ую строку:')
+# second_letter = input('Введите 2-ую строку:')
+# if first_letter.lower() == second_letter.lower()[::-1]:
+#     print('две строки являются палиндромами')
+# else:
+#     print('две строки не являются палиндромами')
 
 
 
